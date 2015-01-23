@@ -1,5 +1,7 @@
 body{
 	background-image: url(background.png);
+	background-color: red;
+    background-blend-mode: multiply;
 }
 
 #wrapper {
@@ -11,30 +13,30 @@ body{
 #nav {
 	width:100%;
 	height: 38px;
-	background-color: #000;
+	
 }
 
 #logo {
 	width:100%;
 	height: 134px;
-	background-color: #ccc;
+
 }
 
 #menu {
 	width:100%;
 	height: 76px;
-	background-color: #999;
+
 }
 
 #body {
 	width:100%;
 	height: 712px;
-	background-color: #666;
+	
 }
 
 #footer {
 	clear:both;
 	width:100%;
 	height: 100px;
-	background-color: #000;
+
 }

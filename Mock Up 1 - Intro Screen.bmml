@@ -1,0 +1,66 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2314" measuredH="1182" mockupW="1920" mockupH="1080">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="394" y="102" w="1920" h="1080" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Front%20Page/Splash%20Screen%0Ahttp%3A//www.hardmeierholzbau.ch</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="784" y="174" w="1140" h="982" measuredW="100" measuredH="70" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <color>16370588</color>
+        <customID>Wrapper</customID>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="394" y="174" w="390" h="982" measuredW="500" measuredH="500" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rotation>180</rotation>
+        <src>./img/Melamine-wood-patterns-PIXEDEN/PNGs/Melamine-wood-001.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="1924" y="174" w="390" h="982" measuredW="500" measuredH="500" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rotation>180</rotation>
+        <src>./img/Melamine-wood-patterns-PIXEDEN/PNGs/Melamine-wood-001.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="1165" y="222" w="-1" h="-1" measuredW="366" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <italic>true</italic>
+        <size>40</size>
+        <text>Hardmeier%20Holzbau</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="1126" y="617" w="387" h="350" measuredW="250" measuredH="250" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./img/your_logo_v4.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="1092" y="499" w="-1" h="-1" measuredW="455" measuredH="28" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Herzlich%20willkommen%20auf%20der%20Homepage%20Startseite</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="832" y="292" w="50" h="38" measuredW="54" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Mock%20Up%201%20-%20Intro%20Screen%26bm%3BMock%20Up%201%20-%20Intro%20Screen.bmml%26bm%3BMock%20Up%201%20-%20Intro%20Screen.bmml%26bm%3BMock%20Up%201%20-%20Intro%20Screen.bmml</href>
+        <icon>./assets/icon_HomeIcon.png%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22438%2C190%2C488%2C228%22%20href%3D%22Mock%2520Up%25201%2520-%2520Intro%2520Screen.bmml%22%20alt%3D%22Mock%20Up%201%20-%20Intro%20Screen%22%20id%3D%2211%22/%3E</map>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MenuBar" x="876" y="292" w="560" h="38" measuredW="561" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Mock%20Up%202%20-%20Unser%20Team%26bm%3BMock%20Up%202%20-%20Unser%20Team.bmml%26bm%3BMock%20Up%202%20-%20Unser%20Team.bmml%26bm%3BMock%20Up%202%20-%20Unser%20Team.bmml%2CMock%20Up%203%20-%20Das%20Unternehmen%26bm%3BMock%20Up%203%20-%20Das%20Unternehmen.bmml%26bm%3BMock%20Up%203%20-%20Das%20Unternehmen.bmml%26bm%3BMock%20Up%203%20-%20Das%20Unternehmen.bmml%2CMock%20Up%204%20-%20Angebotene%20Dienstleistungen%26bm%3BMock%20Up%204%20-%20Angebotene%20Dienstleistungen.bmml%26bm%3BMock%20Up%204%20-%20Angebotene%20Dienstleistungen.bmml%26bm%3BMock%20Up%204%20-%20Angebotene%20Dienstleistungen.bmml%2CMock%20Up%205%20-%20Standort%26bm%3BMock%20Up%205%20-%20Standort.bmml%26bm%3BMock%20Up%205%20-%20Standort.bmml%26bm%3BMock%20Up%205%20-%20Standort.bmml%2CMock%20Up%206%20-%20Kontakt%26bm%3BMock%20Up%206%20-%20Kontakt.bmml%26bm%3BMock%20Up%206%20-%20Kontakt.bmml%26bm%3BMock%20Up%206%20-%20Kontakt.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22500%2C204.5%2C582%2C217.5%22%20href%3D%22Mock%2520Up%25202%2520-%2520Unser%2520Team.bmml%22%20alt%3D%22Mock%20Up%202%20-%20Unser%20Team%22%20id%3D%2212%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22591%2C204.5%2C707%2C217.5%22%20href%3D%22Mock%2520Up%25203%2520-%2520Das%2520Unternehmen.bmml%22%20alt%3D%22Mock%20Up%203%20-%20Das%20Unternehmen%22%20id%3D%2212%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22716%2C204.5%2C900%2C217.5%22%20href%3D%22Mock%2520Up%25204%2520-%2520Angebotene%2520Dienstleistungen.bmml%22%20alt%3D%22Mock%20Up%204%20-%20Angebotene%20Dienstleistungen%22%20id%3D%2212%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22909%2C204.5%2C970%2C217.5%22%20href%3D%22Mock%2520Up%25205%2520-%2520Standort.bmml%22%20alt%3D%22Mock%20Up%205%20-%20Standort%22%20id%3D%2212%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22979%2C204.5%2C1034%2C217.5%22%20href%3D%22Mock%2520Up%25206%2520-%2520Kontakt.bmml%22%20alt%3D%22Mock%20Up%206%20-%20Kontakt%22%20id%3D%2212%22/%3E</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Unser%20Team%2C%20Das%20Unternehmen%2C%20Angebotene%20Dienstleistungen%2C%20Standort%2C%20Kontakt</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
