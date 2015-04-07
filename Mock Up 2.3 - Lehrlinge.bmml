@@ -71,5 +71,6 @@
         <text>%232</text>
       </controlProperties>
     </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Webcam" x="953" y="884" w="675" h="242" measuredW="177" measuredH="146" zOrder="12" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>

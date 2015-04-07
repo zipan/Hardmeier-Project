@@ -59,12 +59,12 @@
         <text>Uber%20Uns%0AAus%20dem%20Wald%20zu%20Ihrem%20Haus%0ALehrlinge</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextArea" x="866" y="474" w="399" h="123" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextArea" x="1622" y="214" w="237" h="91" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Seitdem%20haben%20wir%20einen%20langen%20Weg%20gegangen%20und%20abgeschlossene%20Projekte%2C%20wie...</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="1310" y="462" w="534" h="360" measuredW="640" measuredH="442" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="953" y="462" w="891" h="642" measuredW="640" measuredH="442" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./img/wood_circle.jpg</src>
         <text/>
@@ -92,12 +92,6 @@
     <control controlID="23" controlTypeID="com.balsamiq.mockups::RoundButton" x="1384" y="699" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <text>4</text>
-      </controlProperties>
-    </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::Image" x="866" y="619" w="420" h="298" measuredW="1600" measuredH="1200" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./img/wood-house.JPG</src>
-        <text/>
       </controlProperties>
     </control>
   </controls>
